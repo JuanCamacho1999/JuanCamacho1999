@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there. I´m Juan David Camacho.👋
+#A systems engineering student.
+
+## The languages i´m working:
+- Python.
+- Java.
+- C++.
+
+## My future skills:
+- Machine learning.
+- Big data.
+- IA development.
+
 
 <!--
 **JuanCamacho1999/JuanCamacho1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
